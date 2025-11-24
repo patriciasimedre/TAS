@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/patrysimedre/Downloads/Curs2/Tema1/Exemplu/BankTests/BankTests.csproj": {}
+  },
+  "projects": {
+    "/Users/patrysimedre/Downloads/Curs2/Tema1/Exemplu/BankTests/BankTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/patrysimedre/Downloads/Curs2/Tema1/Exemplu/BankTests/BankTests.csproj",
+        "projectName": "BankTests",
+        "projectPath": "/Users/patrysimedre/Downloads/Curs2/Tema1/Exemplu/BankTests/BankTests.csproj",
+        "packagesPath": "/Users/patrysimedre/.nuget/packages/",
+        "outputPath": "/Users/patrysimedre/Downloads/Curs2/Tema1/Exemplu/BankTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/patrysimedre/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
