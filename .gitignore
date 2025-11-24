@@ -1,0 +1,14 @@
+# Build results
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Ignore Tema_1 folder
+Tema_1/
